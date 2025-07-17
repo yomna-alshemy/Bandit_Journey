@@ -1,1 +1,18 @@
+# Bandit Level 0 Write-Up
+
+## Overview
+Welcome, curious minds! If you're here, you're likely seeking a way to avoid pulling your hair out in frustration—trust me, I’ve been there too!
+
+## Lesson
+How to connect remotely to a server using a secure tool, SSH obviously.
+
+## Reflections
+This level proved challenging despite clear instructions. I struggled to determine where to place the username, assuming it would prompt me like a password. It took trial and error to realize the correct approach with the remote access tool, a valuable lesson in attention to detail.
+
+## Conclusion
+Moving forward, I’ll focus more closely on instructions. The secret often lies in the subtle in-line details—patience is key!
+
+## Solved On
+July 17th, 2025
+
 
